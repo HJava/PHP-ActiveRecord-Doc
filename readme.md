@@ -1,8 +1,12 @@
+# 说明
+
+PHP ActiveRecord官方文档中文翻译版。
+
 这个文档是4年前闲暇时翻译的，现在分享出来供大家使用。
 
 英文文档地址：http://www.phpactiverecord.org/
 
-## 目录
+# 目录
 
 [快速入门 Quick Start](Quick-Start.md)
 
